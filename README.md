@@ -34,8 +34,8 @@ These instructions will get you a copy of the project up and running on your loc
 - lightgbm
 - scikit-learn
 
-##Model
+## Model
 The model is trained using data from 2000 to 2019, validated on 2020-2021 data, and tested on 2022 data. It predicts whether a given location is a potential wildfire hotspot based on the engineered features.
 
-##Evaluation
+## Evaluation
 The model is evaluated on precision, recall, F1-score, and accuracy metrics to assess its performance in identifying wildfire hotspots.
