@@ -39,3 +39,6 @@ The model is trained using data from 2000 to 2019, validated on 2020-2021 data, 
 
 ## Evaluation
 The model is evaluated on precision, recall, F1-score, and accuracy metrics to assess its performance in identifying wildfire hotspots.
+
+## Output
+![Alt text](/screenshot.jpeg?raw=true "Optional Title")
